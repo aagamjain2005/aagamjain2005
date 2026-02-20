@@ -19,7 +19,7 @@
 ## 🛠 Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,html,css,c,cpp,oracle,postgres,mysql"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,html,css,c,cpp,postgres,mysql,oracle"/>
 </p>
 
 ---
