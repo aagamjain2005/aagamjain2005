@@ -5,9 +5,9 @@
 
 🔗👨‍💻 About Me
 
-.🎓 B.Tech 3rd Year Student
-.☕ Currently learning *java & Spring Boot*
-.🌎 Frontend: *HTML,CSS
-.💭 Ask me about *Core Java,OOPS
-.🔑 Email:
+▪🎓 B.Tech 3rd Year Student
+▪☕ Currently learning *java & Spring Boot*
+▪🌎 Frontend: *HTML,CSS
+▪💭 Ask me about *Core Java,OOPS
+▪🔑 Email:
 *jain.aagam1212@gmail.com*
