@@ -14,3 +14,28 @@
 - 📫 Email: **jain.aagam1212@gmail.com**
 
 ---
+
+
+## 🛠 Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,html,css,c,cpp,oracle,postgres,mysql"/>
+</p>
+
+---
+
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="mailto:jain.aagam1212@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/aagam-jain-a8b4b532a?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+</p>
+
+---
+
+⭐ Actively seeking internship opportunities to apply my skills, gain industry experience, and grow as a software developer.
